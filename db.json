@@ -1,0 +1,175 @@
+{
+  "seller": [
+    {
+      "name": "pranay",
+      "password": "pranay@123",
+      "email": "pranay123@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "shivam",
+      "password": "123",
+      "email": "shivam@123",
+      "id": 10
+    },
+    {
+      "name": "John",
+      "password": "123",
+      "email": "john@gmail.com",
+      "id": 11
+    }
+  ],
+  "products": [
+    {
+      "name": "REXCOF DX NF COUGH SYRUP",
+      "price": "550",
+      "category": "syrup",
+      "description": "REXCOF DX NF COUGH SYRUP is used to relieve cough due to throat or bronchial irritation, sneezing and running nose caused by cold, dry cough, allergic cough, post-operative cough, smokers cough and night-time cough.",
+      "image": "/assets/550.jpg",
+      "id": 1
+    },
+    {
+      "name": "Cytarabine Injection",
+      "price": "100000",
+      "category": "injection",
+      "description": "Cytarabine is used alone or with other chemotherapy drugs to treat certain types of leukemia (cancer of the white blood cells), including acute myeloid leukemia (AML), acute lymphocytic leukemia (ALL), and chronic myelogenous leukemia (CML).",
+      "image": "/assets/100000.jpg",
+      "id": 2
+    },
+    {
+      "name": "Remdesivir injection",
+      "price": "50000",
+      "category": "injection",
+      "description": "Remdesivir injection is used to treat coronavirus disease 2019 (COVID-19 infection) caused by the SARS-CoV-2 virus in hospitalized adults and children 28 days of age and older who weigh at least 6.6 pounds (3 kg).",
+      "image": "/assets/50000.jpg",
+      "id": 3
+    },
+    {
+      "name": "COVAXINE",
+      "price": "3000",
+      "category": "injection",
+      "description": "Co-Vaccine is used to prevent Covid symtoms",
+      "image": "/assets/3000.jpg",
+      "id": 4
+    },
+    {
+      "name": "Tiens MultiVitamin",
+      "price": "5000",
+      "category": "supplement",
+      "description": "It is an element for the growth as it plays a role in cell mitosis.The human eye contains zinc most of which is present in retina & choroids. Helps in the formation of collagen & bone growth",
+      "image": "/assets/5000.jpg",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "shiv",
+      "email": "shiv@gmail",
+      "password": "shiv123",
+      "id": 5
+    },
+    {
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "password": "123",
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "name": "Tiens MultiVitamin",
+      "price": "5000",
+      "category": "supplement",
+      "description": "It is an element for the growth as it plays a role in cell mitosis.The human eye contains zinc most of which is present in retina & choroids. Helps in the formation of collagen & bone growth",
+      "image": "/assets/5000.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "name": "REXCOF DX NF COUGH SYRUP",
+      "price": "550",
+      "category": "syrup",
+      "description": "REXCOF DX NF COUGH SYRUP is used to relieve cough due to throat or bronchial irritation, sneezing and running nose caused by cold, dry cough, allergic cough, post-operative cough, smokers cough and night-time cough.",
+      "image": "/assets/550.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "name": "Remdesivir injection",
+      "price": "50000",
+      "category": "injection",
+      "description": "Remdesivir injection is used to treat coronavirus disease 2019 (COVID-19 infection) caused by the SARS-CoV-2 virus in hospitalized adults and children 28 days of age and older who weigh at least 6.6 pounds (3 kg).",
+      "image": "/assets/50000.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "REXCOF DX NF COUGH SYRUP",
+      "price": "550",
+      "category": "syrup",
+      "description": "REXCOF DX NF COUGH SYRUP is used to relieve cough due to throat or bronchial irritation, sneezing and running nose caused by cold, dry cough, allergic cough, post-operative cough, smokers cough and night-time cough.",
+      "image": "/assets/550.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "name": "Cytarabine injection",
+      "price": "100000",
+      "category": "injection",
+      "description": "Cytarabine is used alone or with other chemotherapy drugs to treat certain types of leukemia (cancer of the white blood cells), including acute myeloid leukemia (AML), acute lymphocytic leukemia (ALL), and chronic myelogenous leukemia (CML).",
+      "image": "/assets/100000.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "name": "Remdesivir injection",
+      "price": "50000",
+      "category": "injection",
+      "description": "Remdesivir injection is used to treat coronavirus disease 2019 (COVID-19 infection) caused by the SARS-CoV-2 virus in hospitalized adults and children 28 days of age and older who weigh at least 6.6 pounds (3 kg).",
+      "image": "/assets/50000.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "name": "REXCOF DX NF COUGH SYRUP",
+      "price": "550",
+      "category": "syrup",
+      "description": "REXCOF DX NF COUGH SYRUP is used to relieve cough due to throat or bronchial irritation, sneezing and running nose caused by cold, dry cough, allergic cough, post-operative cough, smokers cough and night-time cough.",
+      "image": "/assets/550.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 6,
+      "id": 14
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": 3
+    }
+  ]
+}

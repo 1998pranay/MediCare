@@ -1,0 +1,42 @@
+.sign-up, .login{
+    text-align: center;
+}
+.sign-up h1, .login h1{
+    margin-right: 700px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: rgb(80, 184, 216);   
+}
+.auth-toggle-link{
+    color: rgb(80, 184, 216);
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.form-input {
+    height: 35px;
+    margin-bottom: 20px;
+    border: 1px solid rgba(169, 177, 173, 0.466);
+    padding-left: 15px;
+    color: black;
+    border-radius: 20px;
+    background-color: rgba(169, 177, 173, 0.466);
+  }
+
+  .form-input:hover{
+    box-shadow: 3px 5px 10px 5px #888888;
+  }
+
+  .form-button {
+    height: 35px;
+    border: 1px solid green;
+    color: black;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: green;
+  }
+
+  .form-button:hover {
+  box-shadow: 3px 5px 10px 5px #888888;
+  }

@@ -1,0 +1,19 @@
+h1{
+    margin-right: 700px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: rgb(80, 184, 216);
+}
+.add-product{
+    text-align: center;
+    border: 0px solid grey;
+    border-radius: 20px;
+}
+
+form{
+    border-radius: 20px;
+}
+
+button{
+    border-radius: 20px;
+}
